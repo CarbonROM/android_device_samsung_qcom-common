@@ -1,9 +1,13 @@
 [
   {
-    "repository": "android_hardware_samsung",
+    "remote" : "lineage",
+    "revision" : "cm-14.1",
+    "repository": "LineageOS/android_hardware_samsung",
     "target_path": "hardware/samsung"
   },
   {
+    "remote" : "lineage",
+    "revision" : "cm-14.1",
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
   }
